@@ -4,7 +4,7 @@
     -----------------------------------------------------------------
     
     Authors     : Romain Vinders (architecture, business logic, sequence system, keyboard input)
-                        Hubert Tombeur de Havay (dynamixel IO)
+                  Hubert Tombeur de Havay (dynamixel IO)
     Languages   : C++, Dynamixel SDK
     Date        : 2015
     License     : GPLv2
